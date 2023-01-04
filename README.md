@@ -9,3 +9,5 @@ Application created with:
 - HTML
 - CSS
 - JavaScript
+
+[Run the project - photo-gallery-and-slider](https://orionfanweb1701.github.io/photo-gallery-and-slider/)
