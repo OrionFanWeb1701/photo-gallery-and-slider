@@ -1,4 +1,4 @@
-<b>Gallery and photo slider of the Knyszyn Primeval Forest</b>
+# Gallery and photo slider of the Knyszyn Primeval Forest
 
 :camera::sunrise_over_mountains::sunglasses:
 
